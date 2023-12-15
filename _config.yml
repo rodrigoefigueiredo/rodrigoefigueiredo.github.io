@@ -3,7 +3,7 @@ title: Rodrigo Figueiredo
 description: Um site para registrar meu aprendizado
 
 # Configurações do tema
-theme: jekyll-theme-dinky # Pode ser substituído pelo tema de sua escolha
+theme: jekyll-theme-tactile # Pode ser substituído pelo tema de sua escolha
 
 # Configurações de layout
 header_pages:
