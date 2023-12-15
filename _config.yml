@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
-title: Home
-description: My Personal Site
+# Configurações gerais
+title: Rodrigo Figueiredo
+description: Um site para registrar meu aprendizado
+
+# Configurações do tema
+theme: jekyll-theme-minimal # Pode ser substituído pelo tema de sua escolha
+
+# Configurações de layout
+header_pages:
+  - Home: /           # Página inicial
+  - Aprendizados: /aprendizados   # Página com postagens de aprendizado
+  - Sobre: /sobre     # Página sobre você
+  - Contato: /contato # Página de contato
+
+footer_content: |
+  © 2023 Rodrigo Figueiredo. Todos os direitos reservados.
+
+# Outras configurações
+permalink: pretty
