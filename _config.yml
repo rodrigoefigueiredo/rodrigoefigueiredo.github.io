@@ -1,19 +1,32 @@
-# Configurações gerais
+# Site settings
 title: Rodrigo Figueiredo
-description: Um site para registrar meu aprendizado
+description: Aprendizado contínuo
 
-# Configurações do tema
-theme: jekyll-theme-minima # Pode ser substituído pelo tema de sua escolha
+# Build settings
+markdown: kramdown
+theme: minima
 
-# Configurações de layout
-header_pages:
-  - Home: /           # Página inicial
-  - Aprendizados: /aprendizados   # Página com postagens de aprendizado
-  - Sobre: /sobre     # Página sobre você
-  - Contato: /contato # Página de contato
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: Aprendizados
+    url: /aprendizados
+  - title: Sobre
+    url: /sobre
+  - title: Contato
+    url: /contato
 
-footer_content: |
-  © 2023 Rodrigo Figueiredo. Todos os direitos reservados.
+# Social media links
+social_links:
+  - title: Twitter
+    url: https://twitter.com/seutwitter
+  - title: GitHub
+    url: https://github.com/seugithub
 
-# Outras configurações
-permalink: pretty
+# Footer content
+footer_content: "© 2023 Rodrigo Figueiredo. Todos os direitos reservados."
+
+# Custom variables
+custom_variable: "Valor Personalizado"
+
