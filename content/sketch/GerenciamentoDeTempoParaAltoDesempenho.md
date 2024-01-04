@@ -26,3 +26,35 @@
     Não confundir gerenciar tempo com priorização e organização de tarefas. Isto é importante, mas não é só isto. O mais importante é fazer mais em menos tempo. O meu tempo é limitado, mas o tempo que eu tenho não precisa ser, se eu tiver pessoas para fazer atividades para mim, então terei mais tempo para gerenciar. Só o meu tempo, eu teria 8 horas, mas se eu tiver mais 10 pessoas, terei 80 horas para gerenciar.
 
 ## DEFINIÇÕES E LIMITAÇÕES DE TEMPO
+
+### O TEMPO É LIMITADO
+
+    O tempo é limitado, temos 24 horas por dia, vemos o ponteiro do relógio e associamos com o tempo passando. Porém, posso usar o tempo de outras pessoas, familiares, amigos, fornecedores, funcionários. Assim posso fazer mais com menos tempo. Posso demorar um dia para fazer uma atividade ou fazê-la em 10 minutos com um equipamento. 
+    O tempo é limitado por dia, e também terá um fim neste mundo. Como o tempo é limitado e ele acaba, precisamos ver o tempo como tempo de vida. Nos últimos momentos de vida podemos querer acrescentar 10 horas, mas não podemos, e alguém gasta estas 10 horas fazendo tatuagens ou desperdiçando com outras coisas. O tempo é limitado e associado à minha vida. Meu tempo é meu tempo de vida. Ao mesmo tempo que não tenho tempo, há muitas pessoas perdidas, desperdiçando tempo. Logo, posso acessar o tempo de outras pessoas para que eu tenha mais tempo. O tempo é limitado, mas podemos ampliá-lo ao pensar mais no tempo do que no dinheiro. Posso pegar o dinheiro que ganhei para fazer o que preciso em menos tempo.
+    Só se administra ou gerencia itens escassos, como tempo, dinheiro.
+
+### O TEMPO PODE SER ENORME
+
+    O tempo, mesmo sendo limitado, pode ser enorme, caso eu gerencie o tempo de outras pessoas.
+    Uma pessoa, quando começa um negócio, faz a maioria ou todas as atividades, e fica com o tempo todo ocupado. Mas ao aumentar o faturamento, vai contratar pessoas para fazer as atividades. Neste caso, o tempo deste empresário é a soma do tempo dele e dos funcionários.
+    Não confundir estar ocupado com produtividade. Produtividade = resultados / tempo.
+    Gerenciar tempo é ser mais produtivo, usar tempo dos outros.
+    A pessoa que eu contrato para fazer atividades tem que ocupar menos o meu tempo do que o que ela produz.
+    Como produzir mais? Tendo mais pessoas para delegar atividades.
+    Usar tempo para delegar, treinar, construindo relacionamentos para aumentar networking.
+    Saber quem é o meu time, reconhecer o valor, o esforço. Quando tem alto desempenho, o meu resultado é aparente, mas há uma retaguarda que dá sustentação.
+
+### DINEIRO É TEMPO
+
+    Costumam dizer que tempo é dinheiro, devido à lógica da troca de tempo por dinheiro.
+    O inverso é verdade: Dinheiro é tempo. No gerenciamento de tempo isto é o que importa.
+    Gasto 8 horas para fazer o serviço, se eu comprar um equipamento e fizer em 10 minutos, eu terei comprado 7:50.
+    Tempo não é dinheiro, mas podemos fazer a conversão, fazendo atividades por dinheiro.
+    Mas dinheiro é tempo porque podemos comprar tempo de outras pessoas para fazer nossas atividades. Se eu comprar o frango limpo eu não gastarei tempo para matar e limpar, se comprar bolo não gastarei tempo para fazer, etc.
+    Posso contratar equipe para fazer serviço e aumentar minha eficiência.
+    Posso comprar no lugar de fazer.
+    Não posso comprar tempo de vida para mim, mas posso comprar tempo de outras pessoas para ter mais tempo livre.
+    Quando tem mais dinheiro somos mais livres, a ideia da liberdade financeira, pois tem-se mais dinheiro para comprar tempo de outras pessoas para fazer minhas atividades.
+    Posso distribuir tarefas com familiares, mas esta ajuda é limitada.
+    Dinheiro é limitado também, mas não tanto quanto o tempo.
+
