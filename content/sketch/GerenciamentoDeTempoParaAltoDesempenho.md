@@ -121,4 +121,18 @@
         Gerenciar tempo é gerenciar tudo, e este tudo deve ter um valor ou uma avaliação intelectual para que possa ser priorizado de forma correta. Gerenciar tempo é gerenciar tempo, dinheiro, pessoas, amigos, família, estoque. E para gerenciar é preciso avaliar para priorizar de forma correta, com critério.
 
 ### PRIORIZAÇÃO E DIVISÃO DE ATIVIDADES
+
+    Projeto complexo => Dividir em atividades menores => Em lista de prioridades ordenada.
+        Para concluir com sucesso.
+        Sem isso, é quase impossível concluir.
+        Para isto, deve-se ter lista de atividades priorizada, a divisão de atividades pode tornar-se improdutiva.
+        Por exemplo:
+            Projeto que precise de 50 pessoas:
+                Contrato as pessoas ou consigo o dinheiro para pagá-las?
+                Contrato à medida do crescimento e necessidade ou contrato todas de uma vez?
+                Contrato as pessoas ou consigo as infraestrutura, mesa, cadeira, computador para suportá-las?
+                Compro os computadores ou verifico que a rede elétrica suporta?
+
 ### ORGANIZAÇÃO E DOCUMENTAÇÃO DAS ATIVIDADES
+
+    
