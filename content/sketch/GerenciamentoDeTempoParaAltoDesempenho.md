@@ -135,4 +135,20 @@
 
 ### ORGANIZAÇÃO E DOCUMENTAÇÃO DAS ATIVIDADES
 
+    A documentação é fundamental no gerenciamento de tempo. Precisamos documentar as atividades a serem gerenciadas. Como já dito, geenciamos tempo gerenciando atividades. Precisamos comunicar as informações corretamente para que estejam disponíveis a realização das atividades.
+    Esquecemos atividades que realizamos e como as realizadmos, logo, precismos registrar de forma organizada.
+    O sucesso do gerenciamento de tempo depende muito da capacidade de organização de informações.
+    Se terceirizar atividades é preciso saber exatemente quem está fazendo o que.
+    Há muita perda de tempo tentando lembrar de algo que já foi feito, por isso a documentação é fundamental no gerenciamento de tempo.
+    Se uma atividade ou projeto será feita ao longo de muito tempo, deve se manter documentada por todo o tempo.
+    Quanto menor a velocidade de um projeto, maior é a necessidade de documentação de tudo o que foi feito e por quem foi feito, assim todo o histórico de hipóteses e decisões tomadas. O que foi feito, por quemm e porque foi feito.
+    O cérebro foi feito para pensar e não para armazenar toda a informação.
+    Quanto melhor a documentação dos projetos e atividades, menos tempo será gasto refazendo atividades ou buscando informações que já se tinha.
+    Se dinheiro é tempo, a documentação vale dinheiro pois economiza o tempo e melhora o desempenho.
+    Tenha o hábito de documentar tudo ou esqueça o gerenciamento de tempo.
+    Não é preciso arquivos de informações, basta um caderninho, um para cada projeto ou conjunto de atividades similares. Mantenha sempre o registro das coisas, mesmo que não queira fazer na frente de outras pessoas. Se estiver com outras pessoas anote mais tarde, mas anote.
+    Quando uma informação se torna lixo, descarte-a para não ficar perdido no meio de muita informação.
+    A forma mais simples é uma agenda ou calendário, mas é sempre bom ter uma caderneta.
+    Outra coisa é ter listas do que devemos fazer. Isso também é um tipo de documentação. 
+    Utilize ao máximo a digitalização e mantenha um bom backup.
     
