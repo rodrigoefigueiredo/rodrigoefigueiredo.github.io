@@ -152,3 +152,99 @@
     Outra coisa é ter listas do que devemos fazer. Isso também é um tipo de documentação. 
     Utilize ao máximo a digitalização e mantenha um bom backup.
     
+## FERRAMENTAS PRÁTICAS
+
+### FAMÍLIA
+    
+    Quando nos casamos nos tornamos um. Agora, temos objetivos comuns e devemos remar para a mesma direção.
+        Passam a ter 4 braços, 2 cabeças, apesar de o homem ser o cabeça do casal. 
+        No casamento há um engrandecimento do ser humano porque é mairor que uma parceria. "Duas pessoas" tornam-se "uma pessoa".
+    "Por trás de um grande homem há sempre uma grande mulher". Um recebe o mérito, mas há um que ajuda e não é visto. O oposto também é verdadeiro em alguns casos.
+    Melhor ferramenta de gerenciamento de tempo é dividir tarefas com o cônjuge. Peça ajuda e trabalhem juntos.
+    Sou meu primeiro funcionário, o meu cônjuge é o segundo. Podemos pedir ajuda aos demais familiares, mas o cônjuge é um apoio real e fundamental para crescer.
+    Trabalhar junto com quem ama pode ser divertido, a não ser que leve fracassos para o lado pessoal.
+    Alguém dirá: "Isto é exploração de mão de obra gratuita".
+        Mas é mais batato contratar profissionais adultos e treinados do que casar e ter filhos.
+        Família é a mão de obra mais cara do mundo, mas é a mais confiável e segura.
+
+### FUNCIONÁRIOS
+
+    Funcionários: o segredo das pessoas mais eficientes do mundo.
+    Quando algém se torna um gestor de tempo profissional ela está se capacitando para ir além e ter funcionários.
+    Tempo VS dinheiro conforme situação da pessoa
+        Sem trabalho:
+            Muito tempo
+            Não viaja.
+            Pouco dinheiro
+        Empregado (40 horas semanais, vende o tempo):
+            Sem tempo
+            Viaja uma vez por ano, quando dá.
+            Tem dinheiro conforme o preço de sua hora
+        Autônomo (Sem funcionários):
+            Sem tempo
+            Consegue gerenciar suas viagens
+            Tem dinheiro conforme sua atividade
+        Dono de um negócio bem sucedido
+            Tem tempo
+            Viaja quando quer
+            Tem dinheiro
+    Empresários bem sucedidos são mestres em gerenciar tempo de outras pessoas (funcionários) para obter o melhor desempenho do seu próprio tempo.
+    Para isto é preciso saber VENDER (motivar) e LIDERAR (guiar).
+    Embora pareça simples, só se chega a este ponto se for um BOM VENDEDOR, e a maioria das pessoas acredita que ser vendedor é algo que não é relevante.
+    É preciso aprender a vender suas ideias ou visão para as pessoas fazerem as coisas de forma correta, da forma como você gostaria.
+    É preciso também saber liderar. Sem uma boa liderança as pessoas ficam dispersas e tornam-se ineficientes. As pessoas só conseguem ser produtivas se tiverem uma boa liderança que consiga transmitir sua visão sobre um determinado assunto, que fará com que toda a equipe reme para o mesmo lado.
+    Em um determinado ponto de vista, apenas pessoas casadas conseguem alcançar o ápice do gerenciamento de tempo utilizando funcionários. Alguns solteiros conseguem sucesso principalmente no mercado de internet, mas será mais difícil no mundo físico real.
+    Saber gerenciar funcionários é um passo que só é dado depois que a pessoa consegue gerenciar as pessoas da própria família.
+    Alguns dirão: "Mas na minha família ninguém me ajuda."
+    Mas, se você não consegue motivar a sua própria família a te ajudar, como espera conseguir motivar estranhos? Enquanto você não conseguir gerenciar melhor o seu tempo com a sua família você não está habilitado a ter funcionários.
+    Você pode começar a gerenciar o seu tempo com apoio da sua família em algumas atividades e só depois dê um passo extra e comece contratando EVENTUALMENTE um funcionário por vez para aumetar o seu desempenho.
+    Ter funcionários exige experiência prévia, qualquer erro pode ser um tiro no pé. Ao contratar alguém, tome muito cuidado. Aprenda com os da sua casa, depois expanda. 
+
+### TERCEIRIZAÇÃO
+
+    Nem sempre é preciso ter funcionários para otimizar meu tempo e tarefas. Posso contratar serviços terceirizados em aplicativos, o que hoje é conhecido como GIG (Freelancer).
+    É comprar tempo de outras pessoas, assim como no caso de funcionários, mas não é um compromisso de longo prazo, tornando mais fácil gerenciar pessoas em pequenas atividades.
+    Sites como FIVERR.COM ou VINTEPILA.COM são bons exemplos.
+    A internet facilitou a terceirização de serviços, e pode gerar renda para as pessoas.
+    A tecnologia ajuda muito no gerenciamento de tempo, terceirizando atividades. Por outro lado, muitas pessoas desperdiçam seu tempo com as tecnologias.
+    Pode-se tanto contratar freelancers nos sites de GIG ou cadastrar-se nestes sites para uma renda extra.
+
+### O ALTO DESEMPEMNHO DEPENDE SEMPRE DE TERCEIROS
+
+    O alto desempenho depende sempre de terceiros. Você pode ter um alto desempenho pessoal sem usar de ajuda de ninguém, mas alto desempenho de verdade só com a ajuda de terceiros.
+    Por trás de um grande empresário há uma grande equipe, em muitos casos, uma exelente equipe gigantesca.
+    As pessoas vêem o alto desempenho do líder, do gênio, mas na verdade o que ele faz é gerenciar o tempo dele contratando muitos gênios. O mérito fica numa pessoa, que precisará virar-se para a sua equipe e agradecer e reconhecer que nada seria possível sem eles.
+    O alto desempenho depende sempre de terceiros pois esta é a forma de investirmos mais tempo em uma tarefa.
+    Se não entendeu em termos empresariais, pense em um exército: um general não vence uma batalha sozinho.
+    O alto desempenho em qualquer atividade depende de pessoas. Uma pessoa não tem tempo suficiente para fazer algo grande sozinha. Isto é válido para negócios, para militares e para tudo que um ser humano não consegue fazer sozinho. Quando precisamos fazer algo grande rapidamente precisamos de terceiros.
+    O problema é para lidar com rapidez quando o tempo é curto, você tem que ir construindo sempre sua base de apoio para te ajudar com suas atividades.
+    Além disso, você não precisa esperar o pior para ter alto desempenho, você pode buscar o mais alto desempenho todos os dias.
+    Buscar por um alto desempenho é a base para o verdadeiro gerenciamento de tempo.
+    O alto desempenho depende sempre de terceiros, que representam a melhor forma de gerenciar o tempo.
+
+### ACOMPANHAMENTO E COBRANÇA
+
+    Não adianta ter equipe ou terceirizar atividades sem fazer um bom acompanhamento e cobrança destas pessoas.
+    Estas são as ferramentas mais importantes no gerenciamento de tempo quando envolvemos terceiros.
+    Por outro lado, acompanhamento e cobrança é igualmente importante com nós mesmos, para isso precisamos pensar em fazer lembretes.
+    Toda atividade deve ter data de início e fim e normalmente quando chega o fim podemos nos esquecer o que foi estabelecido inicialmente, portanto é fundamental documentar.
+    Quando deixamos recados e lembretes para nós mesmos gerenciamos melhor nosso tempo. Para isto, podemos manter o calendário atualizado.
+    Manter a mente ativa com pensamentos de acompanhamento e cobrança mantém você e todos os envolvidos nas atividades em alerta para prazos, o que é muito importante.
+    História para ilustrar: Os japoneses iam pescar e quanto maior a população mais barcos de pesca e logo eles tinha de ir mais longe, e quando colocavam os peixes no tanque eles morriam por falta de oxigênio, devido ao tempo gasto na volta por causa da maior distância. Então eles inventaram um sistema de oxigenação, que melhorava um pouco, mas mesmo assim muitos peixes morriam. Então alguém teve uma ideia, que foi pegar um tubarão e jogar no tanque junto com os peixes e, com isso, os peixes não morriam. A explicação é que, mesmo o tubarão comendo peixes, ele comeria poucos peixes e os demais fivavam agitados por ter um tubarão no tanque e esta agitação por si só oxigenava a água, o que mantinha os peixes vivos.
+    Trazendo a história para o contexto do acompanhamento e cobrança, precisa ter o "tubarão" dentro do ambiente, par oxigená-lo. Nas atividades executadas por terceiros ou funcionários, inicialmente você precisa ser o tubarão, ou quando crescer o negócio o suficiente pode contratar um gerente para ser o tubarão.
+    Quando todos sabem que você eventualmente cobra resultados, todos se mantém ativos sem muita cobrança, mas isto exige um pouco de tempo e uma cultura corporatir ou pessoal bem calibrada.
+    Você sempre cobra e está sempre prestando atenção então as pessoas vão fazendo e você pode cobrar menos que as pessoas vão continuar fazendo, pois sabem que você está acompanhando.
+    Quando chegar o dia em que você ficar o dia inteiro cobrando pessoas, fornecedores, funcionários, terceiros, chegou o ponto de contratar um gerente para terceirizar a tarefa de acompanhamento e cobrança. Ou seja, você contrata primeiro os funcionários, depois o gerente, para que você acompanhe apenas ele e ele as demais pessoas.
+
+## CONSIDERAÇÕES FINAIS
+
+    Uma andorinha não faz verão.
+    Não caia na ilusão de que você precisa ser mais eficiente e gerenciar bem o seu tempo fazendo tudo sozinho.
+    Todo que começamos temos que começar sozinhos, pois em geral temos poucos recursos financeiros, porém, com o tempo, precisamos mobilizar outras pessoas.
+    Começa pela esposa, mãe, pai, sogra, sogro, irmãos, filhos e etc, depois para funcionário e terceiros.
+    Se você tentar fazer tudo sempre sozinho você nunca vai alcançar uma grande eficiência, e vai se sentir frustrado e se perguntando o porquê de você não conseguir fazer tudo o que gostaria.
+    Talvez você consiga crescer um negócio sozinho se for pela internet, mas isto é uma realidade para uma pequena parte da população.
+    O problema é que para gerenciar bem o seu tempo você vai precisar aprender outras habilidades, por exemplo, aprender a liderar.
+    Por mais desafiador que seja, reflita em como envolver o tempo de mais pessoas para te ajudar nas suas atividades.
+    Procure pessoas que multipliquem o seu tempo e não pessoas que destruam o seu tempo com perguntas, questionamentos, insubmissão, preguiça, fofocas, brigas, etc.
+    Quanto mais gente em volta melhor será sua capacidade de gerenciar este item abstrato que é o tempo.
